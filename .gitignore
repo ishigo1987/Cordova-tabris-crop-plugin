@@ -1,0 +1,5 @@
+src/android/.project
+src/android/.gradle
+src/android/.settings/org.eclipse.buildship.core.prefs
+src/ios/_Lib/*
+src/ios/__Lib/*
